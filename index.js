@@ -1,1 +1,1 @@
-require('this-causes-error');
+console.log(require('this-causes-error'));
